@@ -39,7 +39,7 @@ Cada algoritmo está programado como una subrutina independiente, con sus pasos 
 ## Estructura del Proyecto
 
 ```
-ProyectoOrdenamiento/
+Algoritmos-Ordenamiento-Busqueda/
 ├── Main.java               
 ```
 
